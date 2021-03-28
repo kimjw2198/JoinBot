@@ -16,3 +16,4 @@ setuptools==49.2.1
 typing-extensions==3.7.4.3
 yarl==1.6.3
 zope.interface==5.2.0
+youtube-dl==2021.3.3
